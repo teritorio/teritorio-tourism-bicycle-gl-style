@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Bright",
+  "name": "Teritorio Tourism",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:groups": {
@@ -2414,5 +2414,5 @@
       }
     }
   ],
-  "id": "bright"
+  "id": "teritorio-tourism"
 }
