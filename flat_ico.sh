@@ -3,12 +3,12 @@
 set -e
 
 declare -A colors
-colors['local_products']='#F25C05'
+colors['products']='#F25C05'
 colors['convenience']='#00b2cc'
-colors['local_services']='#2d4a9a'
+colors['services']='#2d4a9a'
 colors['safety']='#e42224'
 colors['mobility']='#3772a6'
-colors['amenity_local']='#0a86a5'
+colors['amenity']='#0a86a5'
 colors['remarkable']='#e50980'
 colors['culture']='#76009e'
 colors['hosting']='#a01561'
