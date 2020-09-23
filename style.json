@@ -27,7 +27,7 @@
       "url": "https://api.maptiler.com/tiles/v3/tiles.json?key={key}"
     }
   },
-  "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
+  "sprite": "https://raw.githubusercontent.com/makina-maps/osm-bright-bicycle-gl-style/gh-pages/sprite",
   "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
   "layers": [
     {

@@ -1,21 +1,15 @@
-# OSM Bright
-[![Build Status](https://travis-ci.org/openmaptiles/osm-bright-gl-style.svg?branch=master)](https://travis-ci.org/openmaptiles/osm-bright-gl-style)
+# OSM Bright Bicycle
+[![Build Status](https://travis-ci.org/openmaptiles/osm-bright-bicycle-gl-style.svg?branch=master)](https://travis-ci.org/makina-maps/osm-bright-bicycle-gl-style)
 
-A Mapbox GL basemap style showcasing OpenStreetMap.
-It is using the vector tile
-schema of [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
+A Mapbox GL Bicycle map build on OpenStreetMap and [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
 
 ## Preview
 
 **[:globe_with_meridians: Browse the map](https://openmaptiles.github.io/osm-bright-gl-style)**
 
-<img src="https://github.com/openmaptiles/osm-bright-gl-style/raw/gh-pages/preview/preview-15.png" width="600" title="Preview Zurich">
+![](networks.png)
 
-<img src="https://github.com/openmaptiles/osm-bright-gl-style/raw/gh-pages/preview/preview-10.png" width="600" title="Preview Lake Zurich">
-
-<img src="https://github.com/openmaptiles/osm-bright-gl-style/raw/gh-pages/preview/preview-7.png" width="600" title="Preview Switzerland">
-
-<img src="https://github.com/openmaptiles/osm-bright-gl-style/raw/gh-pages/preview/preview-4.png" width="600" title="Preview Europe">
+![](facilities.png)
 
 ## Edit the Style
 
