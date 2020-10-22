@@ -1,5 +1,5 @@
 # OSM Bright Bicycle
-[![Build Status](https://travis-ci.org/openmaptiles/osm-bright-bicycle-gl-style.svg?branch=master)](https://travis-ci.org/makina-maps/osm-bright-bicycle-gl-style)
+[![Build Status](https://api.travis-ci.com/makina-maps/osm-bright-bicycle-gl-style.svg?branch=master)](https://travis-ci.com/github/makina-maps/osm-bright-bicycle-gl-style)
 
 A Mapbox GL Bicycle map build on OpenStreetMap and [OpenMapTiles](https://github.com/openmaptiles/openmaptiles).
 
