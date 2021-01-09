@@ -61,15 +61,7 @@
        cy="15"
        r="14.5" />
 <g transform="translate(7,7)"><g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 0.429688 7.929688 L 5.179688 7.929688 L 7.300781 15.996094 Z M 0.429688 7.929688 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 6.109375 7.929688 L 10.289062 7.929688 L 8.097656 15.835938 Z M 6.109375 7.929688 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 11.285156 7.929688 L 15.933594 7.929688 L 9.261719 15.996094 Z M 11.285156 7.929688 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 11.71875 7.097656 L 13.3125 3.925781 L 16 7.097656 Z M 11.71875 7.097656 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 8.863281 3.511719 L 12.546875 3.511719 L 10.921875 6.679688 Z M 8.863281 3.511719 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 3.949219 3.511719 L 7.632812 3.511719 L 5.609375 6.679688 Z M 3.949219 3.511719 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 3.019531 3.925781 L 4.8125 7.097656 L 0.464844 7.097656 Z M 3.019531 3.925781 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 8.097656 4.3125 L 10.191406 7.097656 L 6.375 7.097656 Z M 8.097656 4.3125 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 3.320312 3.480469 L 2.070312 2.960938 L 0.917969 3.65625 L 1.042969 2.351562 L 0 1.511719 L 1.328125 1.222656 L 1.835938 0.00390625 L 2.527344 1.132812 L 3.886719 1.222656 L 2.988281 2.207031 Z M 3.320312 3.480469 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#FFFFFF;fill-opacity:1;" d="M 0.429688 7.929688 L 5.179688 7.929688 L 7.300781 15.996094 Z M 8.097656 15.835938 L 10.289062 7.929688 L 6.109375 7.929688 Z M 9.261719 15.996094 L 15.933594 7.929688 L 11.285156 7.929688 Z M 16 7.097656 L 13.3125 3.925781 L 11.71875 7.097656 Z M 10.921875 6.679688 L 12.546875 3.511719 L 8.863281 3.511719 Z M 5.609375 6.679688 L 7.632812 3.511719 L 3.949219 3.511719 Z M 0.464844 7.097656 L 4.8125 7.097656 L 3.019531 3.925781 Z M 6.375 7.097656 L 10.191406 7.097656 L 8.097656 4.3125 Z M 2.988281 2.207031 L 3.886719 1.222656 L 2.527344 1.132812 L 1.835938 0.00390625 L 1.328125 1.222656 L 0 1.511719 L 1.042969 2.351562 L 0.917969 3.65625 L 2.070312 2.960938 L 3.320312 3.480469 Z M 2.988281 2.207031 "/>
 </g>
 </g>
 </svg>

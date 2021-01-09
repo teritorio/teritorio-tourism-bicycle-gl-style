@@ -61,8 +61,7 @@
        cy="15"
        r="14.5" />
 <g transform="translate(6,11)"><g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30%,30%,30%);fill-opacity:1;" d="M 5.050781 0.00390625 L 17 0.00390625 L 17 1.820312 L 5.050781 1.820312 Z M 5.050781 0.00390625 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30%,30%,30%);fill-opacity:1;" d="M 0 5.179688 L 11.949219 5.179688 L 11.949219 6.996094 L 0 6.996094 Z M 0 5.179688 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30%,30%,30%);fill-opacity:1;" d="M 5.050781 0.00390625 L 17 0.00390625 L 17 1.820312 L 5.050781 1.820312 Z M 0 5.179688 L 11.949219 5.179688 L 11.949219 6.996094 L 0 6.996094 Z M 0 5.179688 "/>
 </g>
 </g>
 </svg>
