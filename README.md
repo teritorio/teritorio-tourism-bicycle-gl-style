@@ -5,11 +5,13 @@ A Mapbox GL Bicycle map build on OpenStreetMap and [OpenMapTiles](https://github
 
 ## Preview
 
-**[:globe_with_meridians: Browse the map](https://openmaptiles.github.io/osm-bright-gl-style)**
-
 ![](networks.png)
 
 ![](facilities.png)
+
+## OpenMapTiles Data Layer
+
+This style require the extra layers from [openmaptiles-contrib-bicycle_hiking_route](https://github.com/makina-maps/openmaptiles-contrib-bicycle_hiking_route).
 
 ## Edit the Style
 
