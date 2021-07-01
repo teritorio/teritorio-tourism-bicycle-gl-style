@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Teritorio Tourism",
+  "name": "Teritorio Tourism Bicycle",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:groups": {
@@ -3862,6 +3862,10 @@
           -1
         ],
         [
+          "has",
+          "facility_left"
+        ],
+        [
           "==",
           [
             "get",
@@ -4007,6 +4011,10 @@
       "filter": [
         "all",
         [
+          "has",
+          "facility_left"
+        ],
+        [
           "==",
           [
             "get",
@@ -4132,6 +4140,10 @@
       "source-layer": "transportation_bicycle",
       "filter": [
         "all",
+        [
+          "has",
+          "facility_right"
+        ],
         [
           "==",
           [
